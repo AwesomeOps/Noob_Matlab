@@ -15,4 +15,4 @@ while(fr-fl>0.01&&f(fr)*f(fl)<0)
         break;
     end
 end
-disp(f(mid))A
+disp(f(mid))
